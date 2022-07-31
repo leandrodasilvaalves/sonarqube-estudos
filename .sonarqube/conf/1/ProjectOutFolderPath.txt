@@ -1,0 +1,1 @@
+/home/leandro/workspace/net6/UsingSonarQube/.sonarqube/out/1
